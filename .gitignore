@@ -1,0 +1,5 @@
+.env
+legacy/
+.venv/
+__pycache__/
+main.py

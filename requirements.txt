@@ -1,0 +1,22 @@
+#
+# requirements.txt
+#
+# Purpose:
+#   Dependencies for the AI Gateway Streamlit demo client that connects to the
+#   existing Prompt Security Gateway.
+#
+# Author:
+#   Anand S
+#
+# Date:
+#   2025-12-15
+#
+# Last Modified:
+#   2025-12-15
+#
+
+streamlit==1.40.0
+requests==2.32.3
+python-dotenv==1.0.0
+
+
